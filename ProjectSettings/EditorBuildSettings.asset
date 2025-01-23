@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/scene 1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/scene 2.unity
+    guid: 1fb7dc46386fae245a890d63a68e715f
+  - enabled: 0
+    path: Assets/Scenes/scene 3.unity
+    guid: e3348980c545d194b90544ae333d1b64
+  - enabled: 1
+    path: Assets/Scenes/TitlePage.unity
+    guid: 2b6ff93faf350ed4bad4f465a5e8a3a2
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: f9239bd13715939429c7a1ad0912cea5
+  - enabled: 0
+    path: Assets/Scenes/Bedroom.unity
+    guid: a9fcb1d9634c39640bff426243b598b2
+  - enabled: 0
+    path: Assets/Scenes/HouseInterior.unity
+    guid: f42e7e0579d8216418a6470d97206dc8
+  - enabled: 1
+    path: Assets/Scenes/CatchMainMenu.unity
+    guid: 85a160e02aafed84aad84a31d29df7e4
+  - enabled: 1
+    path: Assets/Scenes/CatchGame.unity
+    guid: 486ca45088f85854a828e86d5002e5ca
+  - enabled: 1
+    path: Assets/Scenes/Arcade.unity
+    guid: 3455567bf35e114429020716d47e584b
+  - enabled: 0
+    path: Assets/Scenes/HouseExterior.unity
+    guid: dc6304166d2c1fa45875f1735331e162
+  - enabled: 1
+    path: Assets/Scenes/NewHouseExterior.unity
+    guid: ba01dcd17bb35ed4393720c439b7d3c2
+  - enabled: 1
+    path: Assets/Scenes/CatchLevel2.unity
+    guid: adac612c6e3a6de4d8ccb68bdc541557
+  m_configObjects: {}
