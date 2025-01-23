@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 330787d8c19084048979d93671675041
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b43a61b98e8bb44fbda92d37ec79d4c
+      internalID: -69935869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 286
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44706a2ef456a974eb1552b067ceaebe
+      internalID: 126770235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 286
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7c77ad02ee4ae4bb0283f6dc847e09
+      internalID: 576557007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 286
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13869bcad8e15c04ebace88314d21504
+      internalID: -1449186057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 286
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d826179673537e48ac3ca6b0ef0de47
+      internalID: -855495173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 286
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c557bb2d6e365d345ae4adaa39d62dc9
+      internalID: 1653080616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 286
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968bcf709f6834146a6b1f7ca77d0429
+      internalID: 1584532392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 286
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea79e4656340b4143a5a997317f009d2
+      internalID: -421329130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 286
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b4e689f1c95eb4496d2041dfa29321
+      internalID: 2080473010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 286
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a08f404fba63e41993885c5096e072
+      internalID: 1892678916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d33307e759ef51469b48c18ddcf0284
+      internalID: -1918157787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 145
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b18b86b6ff8b04c890df11a8be91c0
+      internalID: -1839565887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 145
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6d817fb1da4564790c2687fdebe36d
+      internalID: -80081014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 145
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0071a5af2749946acd976e559bee40
+      internalID: 567617176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 145
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4d7e6c06850ee4fa3ec34272c2fee8
+      internalID: -113620375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 145
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb98ec078258e8f4da313173901f6fc1
+      internalID: -1047861460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 145
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b010548460d65254888f6e61b70b122a
+      internalID: 1805426082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 145
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ca34648f71ce145a614bfe9a99dc9c
+      internalID: -697117302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 145
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04460f8e1b06d36409718bb76ff7b3d0
+      internalID: -485494977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 145
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b79369f45341247a8934fbe1fff829
+      internalID: -1426922436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419553989d311fd419f0e5ce9796acf8
+      internalID: 1029078385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 3
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d099e739e86a22c41b1d01a5329b5ae0
+      internalID: 807829473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464e512a929f1784c8ca8aed5b8ec439
+      internalID: -1617323996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa543a276fb22f4aadb02e428cbb88c
+      internalID: 1543970132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 3
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2710aecabc9bdec4c87ae5ad89106b20
+      internalID: -1709643243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_25
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 3
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d591edc67b283478d1bb25503caf9a
+      internalID: 120426318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_26
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 3
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c248b8410b3cb4fb520f55d6287b88
+      internalID: 876212281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_27
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 3
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b5eacbffb3ce84c9c661c215dc636c
+      internalID: -819529094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_28
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 3
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972f55728a8a57d4ca9397c6e2983204
+      internalID: -2043974801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Doors01 by ArloAnimation_29
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 3
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85717f40c0e42446ad71c85fb550441
+      internalID: 810031175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Longcat Cafe Doors01 by ArloAnimation_0: -69935869
+      Longcat Cafe Doors01 by ArloAnimation_1: 126770235
+      Longcat Cafe Doors01 by ArloAnimation_10: -1918157787
+      Longcat Cafe Doors01 by ArloAnimation_11: -1839565887
+      Longcat Cafe Doors01 by ArloAnimation_12: -80081014
+      Longcat Cafe Doors01 by ArloAnimation_13: 567617176
+      Longcat Cafe Doors01 by ArloAnimation_14: -113620375
+      Longcat Cafe Doors01 by ArloAnimation_15: -1047861460
+      Longcat Cafe Doors01 by ArloAnimation_16: 1805426082
+      Longcat Cafe Doors01 by ArloAnimation_17: -697117302
+      Longcat Cafe Doors01 by ArloAnimation_18: -485494977
+      Longcat Cafe Doors01 by ArloAnimation_19: -1426922436
+      Longcat Cafe Doors01 by ArloAnimation_2: 576557007
+      Longcat Cafe Doors01 by ArloAnimation_20: 1029078385
+      Longcat Cafe Doors01 by ArloAnimation_21: 807829473
+      Longcat Cafe Doors01 by ArloAnimation_22: -1617323996
+      Longcat Cafe Doors01 by ArloAnimation_23: 1543970132
+      Longcat Cafe Doors01 by ArloAnimation_24: -1709643243
+      Longcat Cafe Doors01 by ArloAnimation_25: 120426318
+      Longcat Cafe Doors01 by ArloAnimation_26: 876212281
+      Longcat Cafe Doors01 by ArloAnimation_27: -819529094
+      Longcat Cafe Doors01 by ArloAnimation_28: -2043974801
+      Longcat Cafe Doors01 by ArloAnimation_29: 810031175
+      Longcat Cafe Doors01 by ArloAnimation_3: -1449186057
+      Longcat Cafe Doors01 by ArloAnimation_4: -855495173
+      Longcat Cafe Doors01 by ArloAnimation_5: 1653080616
+      Longcat Cafe Doors01 by ArloAnimation_6: 1584532392
+      Longcat Cafe Doors01 by ArloAnimation_7: -421329130
+      Longcat Cafe Doors01 by ArloAnimation_8: 2080473010
+      Longcat Cafe Doors01 by ArloAnimation_9: 1892678916
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

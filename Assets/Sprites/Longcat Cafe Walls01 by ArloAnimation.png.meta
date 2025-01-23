@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: d5a048e1586ef6b4ab155ca97012be88
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Longcat Cafe Walls01 by ArloAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 50
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2ed140ba53baf4c88f7958088ac4fe
+      internalID: -1298355108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Walls01 by ArloAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 155
+        width: 50
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a5be11cdfa8574ab4645f5945384f1
+      internalID: 386312882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Walls01 by ArloAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 155
+        width: 50
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8f70dbaa849f445b0f6403c177fc04
+      internalID: 1648739518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Walls01 by ArloAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 155
+        width: 50
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2dc63516a25d24ba6f7db6abfda95d
+      internalID: 1564381994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Walls01 by ArloAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 156
+        width: 50
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9057142c74331474396984e0a8c1d74a
+      internalID: 937771215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Walls01 by ArloAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 156
+        width: 50
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f731a85d78bf284d9840f6027bdd907
+      internalID: -170358774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Walls01 by ArloAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 155
+        width: 50
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ba570e2938c3646a436fbbd0612b2e
+      internalID: -850615173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Walls01 by ArloAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 155
+        width: 50
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e3da335e99f654f96f67383677f606
+      internalID: 246204972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Walls01 by ArloAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 155
+        width: 50
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c4244a44ea95e4188cdd1a6a801608
+      internalID: -138256237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Walls01 by ArloAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 155
+        width: 50
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50305ef0cce8d7447bd3557a1fc3752b
+      internalID: -621390089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Walls01 by ArloAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 50
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82859abe21d309f40b080a6b102da7c1
+      internalID: 1762425723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Walls01 by ArloAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 50
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c1c6bbddf4fde4698699c150a3349b
+      internalID: 1156494774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Walls01 by ArloAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2
+        width: 50
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285794574d7e0a9418c68ecf3d00711b
+      internalID: 1083306328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Walls01 by ArloAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2
+        width: 50
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c79bd83cd27f5d4f8f56401cc366848
+      internalID: -1235552873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Walls01 by ArloAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2
+        width: 50
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ac0da37b2f9074ca166ef2c5dbcdfd
+      internalID: -244706248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Walls01 by ArloAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2
+        width: 50
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5c47a2b2bcdfc468b52a7bc0fc1791
+      internalID: 1808365905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Walls01 by ArloAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2
+        width: 50
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c72dee66618f9644ba7406aa1905249
+      internalID: 1986842204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Walls01 by ArloAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2
+        width: 50
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91747be692447441a8a693169ab635a
+      internalID: -1932428703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Walls01 by ArloAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2
+        width: 50
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8ac1457e2815d4c861aaeabb2c4856
+      internalID: 1693517208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Walls01 by ArloAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2
+        width: 50
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce137a7f1fac464fa8ef3f060beba14
+      internalID: -736375634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Longcat Cafe Walls01 by ArloAnimation_0: -1298355108
+      Longcat Cafe Walls01 by ArloAnimation_1: 386312882
+      Longcat Cafe Walls01 by ArloAnimation_10: 1762425723
+      Longcat Cafe Walls01 by ArloAnimation_11: 1156494774
+      Longcat Cafe Walls01 by ArloAnimation_12: 1083306328
+      Longcat Cafe Walls01 by ArloAnimation_13: -1235552873
+      Longcat Cafe Walls01 by ArloAnimation_14: -244706248
+      Longcat Cafe Walls01 by ArloAnimation_15: 1808365905
+      Longcat Cafe Walls01 by ArloAnimation_16: 1986842204
+      Longcat Cafe Walls01 by ArloAnimation_17: -1932428703
+      Longcat Cafe Walls01 by ArloAnimation_18: 1693517208
+      Longcat Cafe Walls01 by ArloAnimation_19: -736375634
+      Longcat Cafe Walls01 by ArloAnimation_2: 1648739518
+      Longcat Cafe Walls01 by ArloAnimation_3: 1564381994
+      Longcat Cafe Walls01 by ArloAnimation_4: 937771215
+      Longcat Cafe Walls01 by ArloAnimation_5: -170358774
+      Longcat Cafe Walls01 by ArloAnimation_6: -850615173
+      Longcat Cafe Walls01 by ArloAnimation_7: 246204972
+      Longcat Cafe Walls01 by ArloAnimation_8: -138256237
+      Longcat Cafe Walls01 by ArloAnimation_9: -621390089
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

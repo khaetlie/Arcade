@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: 141120d187504944681f136339620e28
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Longcat Cafe Chairs02 by ArloAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e03777ce2b9dc44696eab76ce36d9d0
+      internalID: 1811080946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Chairs02 by ArloAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 141
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f67bb8550c08d46811a6e15421cff8
+      internalID: 122033055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Chairs02 by ArloAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 141
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3662f4369570d7a48b77e645adcd09ec
+      internalID: 1220554812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Chairs02 by ArloAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 141
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6725e663bd71f3841b442b34654aa06e
+      internalID: -1082988858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Chairs02 by ArloAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 141
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f27eccca70717438e2708fe022d914
+      internalID: 1262634696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Chairs02 by ArloAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 141
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0695bb30deac2c4da8107bb7fd40c30
+      internalID: -898317360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Chairs02 by ArloAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 141
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b93509ec7d90449bd7fde3b7719390
+      internalID: 961776452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Chairs02 by ArloAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 141
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9237f3dd701c2dd4bbeecde5182527bc
+      internalID: 2065684892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Chairs02 by ArloAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 141
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfc8e6f0cebcc84494c5e412408f543
+      internalID: -212743888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Chairs02 by ArloAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 141
+        width: 49
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09fe900de3a5df45bf2a60fd3bc4a4d
+      internalID: -494243344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Chairs02 by ArloAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73720fdcf0a760d4fa0212199550df86
+      internalID: 1617823686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Chairs02 by ArloAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 4
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b1c9d9116f3a84b92a4cca4ec673d1
+      internalID: -757924059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Chairs02 by ArloAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 4
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0c0ef1398c571438729a385521a5ca
+      internalID: -350185887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Chairs02 by ArloAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 4
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d32a355edace424ab8f1540a30719c2
+      internalID: 1144491829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Chairs02 by ArloAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 4
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2f4bedbaf5e9541aa2b36109734c55
+      internalID: 1359078611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Chairs02 by ArloAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 4
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e438b53b4ca1f409daaf475458ded4
+      internalID: 1758587659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Chairs02 by ArloAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 4
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b5adf63552b65468617586e189ebc4
+      internalID: 940492627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Chairs02 by ArloAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 4
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d62628d9ee25b489e7d1fabf501809
+      internalID: -1234043825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Chairs02 by ArloAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 4
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5649ba155ddea439ed2b7ede06d7a3
+      internalID: 1974961280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Chairs02 by ArloAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 4
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc1a9c47a6af7d46bad558d7727edef
+      internalID: -1424978691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Longcat Cafe Chairs02 by ArloAnimation_0: 1811080946
+      Longcat Cafe Chairs02 by ArloAnimation_1: 122033055
+      Longcat Cafe Chairs02 by ArloAnimation_10: 1617823686
+      Longcat Cafe Chairs02 by ArloAnimation_11: -757924059
+      Longcat Cafe Chairs02 by ArloAnimation_12: -350185887
+      Longcat Cafe Chairs02 by ArloAnimation_13: 1144491829
+      Longcat Cafe Chairs02 by ArloAnimation_14: 1359078611
+      Longcat Cafe Chairs02 by ArloAnimation_15: 1758587659
+      Longcat Cafe Chairs02 by ArloAnimation_16: 940492627
+      Longcat Cafe Chairs02 by ArloAnimation_17: -1234043825
+      Longcat Cafe Chairs02 by ArloAnimation_18: 1974961280
+      Longcat Cafe Chairs02 by ArloAnimation_19: -1424978691
+      Longcat Cafe Chairs02 by ArloAnimation_2: 1220554812
+      Longcat Cafe Chairs02 by ArloAnimation_3: -1082988858
+      Longcat Cafe Chairs02 by ArloAnimation_4: 1262634696
+      Longcat Cafe Chairs02 by ArloAnimation_5: -898317360
+      Longcat Cafe Chairs02 by ArloAnimation_6: 961776452
+      Longcat Cafe Chairs02 by ArloAnimation_7: 2065684892
+      Longcat Cafe Chairs02 by ArloAnimation_8: -212743888
+      Longcat Cafe Chairs02 by ArloAnimation_9: -494243344
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

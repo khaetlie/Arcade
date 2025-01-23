@@ -1,0 +1,1491 @@
+fileFormatVersion: 2
+guid: 8b316d411bc3883449123ac14b652a3b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 128
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65141f886512dde428e94b4a8c9fdf16
+      internalID: 463157802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 128
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7361dd72b6fa9964b94884747a1d514f
+      internalID: 1285435864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 128
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90907e3c88173d41ba1ad231ad74547
+      internalID: -1020536010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 128
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7b0da566cb0104b87d2cc47b3222b3
+      internalID: 433059241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 128
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f0dfea904415041b2a40e5da3cbbc2
+      internalID: -760323053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 137
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fd4b39b83fe764e831d977a65ddb92
+      internalID: -1076466334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 137
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2a6d00685937f40a2857d535029172
+      internalID: 1548630920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 137
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4248142d35980f9408d8608e2d4aca1e
+      internalID: -890223283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 136
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da1d786ce1cb2e4ab17e1f32a6b36ba
+      internalID: 810839004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01200a209bcb8248917b2332e4beda8
+      internalID: -91410648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 103
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d137ea56cce346743ab2f632e06872bc
+      internalID: -1233279900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 103
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa39e326ae47c5044b91457897e1363e
+      internalID: -320705259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 103
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fa61e185778a14aa69c118e25e7037
+      internalID: -1536572334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 103
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12028cd4b1c5434ca89d83b550460fc
+      internalID: 2034318270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 120
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65212d673e907040859fc80c7f86946
+      internalID: -929713902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 120
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dcde8a51a6d99469b9489072e63c2d
+      internalID: 2054944582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 120
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069a893c2e8626147b82e3a34691fede
+      internalID: 947862829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 119
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ca77259e10c1742ae9f7c1b5751ff4
+      internalID: 1083505723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e713cda19b93c34f8a58fa51db537d3
+      internalID: -531302474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 79
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a9dc8b942bda744b430e91e20ee8b3
+      internalID: -656403748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 79
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac793b5424181d47b6754c4a41fcb47
+      internalID: 1177138106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 79
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4198f5eb7a2a06c4c84ae0bc14869f0b
+      internalID: 560108046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 79
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ebceaa2ffca0c4e96daa215479ea1a
+      internalID: -620176730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 94
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5c5f55e16bad248b100d9bd6d3f69c
+      internalID: 1264700610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 94
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d13480edb788114c9d7b2fe870f4ea3
+      internalID: -1565496542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 94
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bff00f93dc5113428740afa3dab0025
+      internalID: 107652831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_26
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 93
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dc09270f1ac8649a50781725e85833
+      internalID: 1816529591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 78
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4d250906567e14d946e8239f8075a9
+      internalID: 2079956717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 78
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d800c976b8a484a9c4841e024cf5f2
+      internalID: -21141476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_29
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 78
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7d828a15822f240acb925a9cb5cfc8
+      internalID: -1002939099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_30
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 77
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9968cf0726a9988478e7a7ea2047c655
+      internalID: 1789347278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 60
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839bf95f853fc184088c5b48dd3aee6a
+      internalID: -386839075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 61
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b15a0b7778fe748ab9aca2728c5c6f
+      internalID: -2081298061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 61
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3255f2ec5f3720142a4d03a5e65a7ac3
+      internalID: 490857958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 61
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9c96f7e2bfb1a43a8ad20c3a433309
+      internalID: 2050971791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 52
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb393cffeba0544c87bfc94d18ea3ac
+      internalID: -382506729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_36
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 52
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7622b8911d44ba0438de5b03e4f12a26
+      internalID: 1232212899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 52
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6733fb413c8bf84da1f7bb5ab1e73b7
+      internalID: -2051175858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_38
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 52
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f2930441a22854daa083fdd475a47c
+      internalID: -1284501506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_39
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 52
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3be946d2a886248b285a89cadd6234
+      internalID: 772607547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf654e4b88e8ea408473d91d5a155db
+      internalID: -735220078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 44
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44d2eff53adeed49a6cfb41c68335f2
+      internalID: 1324520755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_42
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 44
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4184be938ed6e4882e6429213b0562
+      internalID: -1170276163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_43
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 44
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05aa47ad503e38d498f95fa05a30d98b
+      internalID: -373829475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_44
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 27
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf3dc34146f5814c8f9ccf2b84fb782
+      internalID: -747704827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_45
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 27
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e92a9eea8d3dc498fc502c025693fc
+      internalID: 1599754461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 27
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2eec42a4288e1d479819ced91617756
+      internalID: 789081210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_47
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 27
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a33835a30e6c14f8094ed960053f51
+      internalID: 1042179408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_48
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 27
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa365ce98bd33784f9c5307edc13283d
+      internalID: -59279411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 17
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b097471263facdb45980683bc9656fdd
+      internalID: 1711035308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_50
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 18
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19622cdd82f114149a8039d180c6cb3f
+      internalID: 1133360240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_51
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 18
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31285863ec3a16a46867fce0a2cd77fd
+      internalID: 1916076461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_52
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 18
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1ab612cc61338448b5c5817dad2601
+      internalID: -692375685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_53
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c13ed8d43adbb499de8899188c7812
+      internalID: 969453973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_54
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 3
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee09e54c0611da343b63bcd562b47734
+      internalID: 545549391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396f167066db1fb4680611f26bed851f
+      internalID: 1037424553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_56
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 3
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae57d3861e1e5b49b27726603e25c7b
+      internalID: 415331510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_57
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 3
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faa1a90c4991004e99b0b1023b2e422
+      internalID: -1154049630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7518005ebf49a5b459e63c8d496cdafe
+      internalID: -418176363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_59
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d281fc8c17d0b49916617974a603af
+      internalID: -1761340800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_60
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feae4213ece91e1449bfd0cc045ebb6a
+      internalID: 120792633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcat Cafe Drinks01 by ArloAnimation_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22476b5232fb1954b87b7f84e7a63bb7
+      internalID: -773916664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Longcat Cafe Drinks01 by ArloAnimation_0: 463157802
+      Longcat Cafe Drinks01 by ArloAnimation_1: 1285435864
+      Longcat Cafe Drinks01 by ArloAnimation_10: -1233279900
+      Longcat Cafe Drinks01 by ArloAnimation_11: -320705259
+      Longcat Cafe Drinks01 by ArloAnimation_12: -1536572334
+      Longcat Cafe Drinks01 by ArloAnimation_13: 2034318270
+      Longcat Cafe Drinks01 by ArloAnimation_14: -929713902
+      Longcat Cafe Drinks01 by ArloAnimation_15: 2054944582
+      Longcat Cafe Drinks01 by ArloAnimation_16: 947862829
+      Longcat Cafe Drinks01 by ArloAnimation_17: 1083505723
+      Longcat Cafe Drinks01 by ArloAnimation_18: -531302474
+      Longcat Cafe Drinks01 by ArloAnimation_19: -656403748
+      Longcat Cafe Drinks01 by ArloAnimation_2: -1020536010
+      Longcat Cafe Drinks01 by ArloAnimation_20: 1177138106
+      Longcat Cafe Drinks01 by ArloAnimation_21: 560108046
+      Longcat Cafe Drinks01 by ArloAnimation_22: -620176730
+      Longcat Cafe Drinks01 by ArloAnimation_23: 1264700610
+      Longcat Cafe Drinks01 by ArloAnimation_24: -1565496542
+      Longcat Cafe Drinks01 by ArloAnimation_25: 107652831
+      Longcat Cafe Drinks01 by ArloAnimation_26: 1816529591
+      Longcat Cafe Drinks01 by ArloAnimation_27: 2079956717
+      Longcat Cafe Drinks01 by ArloAnimation_28: -21141476
+      Longcat Cafe Drinks01 by ArloAnimation_29: -1002939099
+      Longcat Cafe Drinks01 by ArloAnimation_3: 433059241
+      Longcat Cafe Drinks01 by ArloAnimation_30: 1789347278
+      Longcat Cafe Drinks01 by ArloAnimation_31: -386839075
+      Longcat Cafe Drinks01 by ArloAnimation_32: -2081298061
+      Longcat Cafe Drinks01 by ArloAnimation_33: 490857958
+      Longcat Cafe Drinks01 by ArloAnimation_34: 2050971791
+      Longcat Cafe Drinks01 by ArloAnimation_35: -382506729
+      Longcat Cafe Drinks01 by ArloAnimation_36: 1232212899
+      Longcat Cafe Drinks01 by ArloAnimation_37: -2051175858
+      Longcat Cafe Drinks01 by ArloAnimation_38: -1284501506
+      Longcat Cafe Drinks01 by ArloAnimation_39: 772607547
+      Longcat Cafe Drinks01 by ArloAnimation_4: -760323053
+      Longcat Cafe Drinks01 by ArloAnimation_40: -735220078
+      Longcat Cafe Drinks01 by ArloAnimation_41: 1324520755
+      Longcat Cafe Drinks01 by ArloAnimation_42: -1170276163
+      Longcat Cafe Drinks01 by ArloAnimation_43: -373829475
+      Longcat Cafe Drinks01 by ArloAnimation_44: -747704827
+      Longcat Cafe Drinks01 by ArloAnimation_45: 1599754461
+      Longcat Cafe Drinks01 by ArloAnimation_46: 789081210
+      Longcat Cafe Drinks01 by ArloAnimation_47: 1042179408
+      Longcat Cafe Drinks01 by ArloAnimation_48: -59279411
+      Longcat Cafe Drinks01 by ArloAnimation_49: 1711035308
+      Longcat Cafe Drinks01 by ArloAnimation_5: -1076466334
+      Longcat Cafe Drinks01 by ArloAnimation_50: 1133360240
+      Longcat Cafe Drinks01 by ArloAnimation_51: 1916076461
+      Longcat Cafe Drinks01 by ArloAnimation_52: -692375685
+      Longcat Cafe Drinks01 by ArloAnimation_53: 969453973
+      Longcat Cafe Drinks01 by ArloAnimation_54: 545549391
+      Longcat Cafe Drinks01 by ArloAnimation_55: 1037424553
+      Longcat Cafe Drinks01 by ArloAnimation_56: 415331510
+      Longcat Cafe Drinks01 by ArloAnimation_57: -1154049630
+      Longcat Cafe Drinks01 by ArloAnimation_58: -418176363
+      Longcat Cafe Drinks01 by ArloAnimation_59: -1761340800
+      Longcat Cafe Drinks01 by ArloAnimation_6: 1548630920
+      Longcat Cafe Drinks01 by ArloAnimation_60: 120792633
+      Longcat Cafe Drinks01 by ArloAnimation_61: -773916664
+      Longcat Cafe Drinks01 by ArloAnimation_7: -890223283
+      Longcat Cafe Drinks01 by ArloAnimation_8: 810839004
+      Longcat Cafe Drinks01 by ArloAnimation_9: -91410648
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
